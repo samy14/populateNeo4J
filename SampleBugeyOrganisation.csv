@@ -1,0 +1,25 @@
+Entite,Entite_parente
+Direction,
+Mission Management Qualité,Direction
+Direction Sûreté,Direction
+Service Qualité Sûreté,Direction Sûreté
+Service Inspection Réglementation,Direction Sûreté
+Direction Technique,Direction
+Service Ingénierie de site,Direction Technique
+Structure Travaux Neufs,Direction Technique
+Direction Sécurité Radio Protection Environnement,Direction
+Service Sécurité Radioprotection,Direction Sécurité Radio Protection Environnement
+Protection Site,Direction Sécurité Radio Protection Environnement
+Direction Maintenance,Direction
+Service Electricité et Mécanique,Direction Maintenance
+Service Robinetterie Chaudronnerie,Direction Maintenance
+Service Permanent de Réalisation,Direction Maintenance
+Service Combustible Logistique Déchets,Direction Maintenance
+Direction Production,Direction
+Service Conduite,Direction Production
+Service Automatismes,Direction Production
+Service Mesures Environnement,Direction Production
+Direction Performance Economique et Contrôle de Gestion,Direction
+Service Information Gestion,Direction Performance Economique et Contrôle de Gestion
+Direction Ressources Humaines,Direction
+Direction Communication,Direction
